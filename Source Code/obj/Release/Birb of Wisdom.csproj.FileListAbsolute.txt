@@ -1,0 +1,10 @@
+C:\Users\rwalpole\source\repos\Birb of Wisdom\bin\Release\Birb of Wisdom.exe.config
+C:\Users\rwalpole\source\repos\Birb of Wisdom\bin\Release\Birb of Wisdom.exe
+C:\Users\rwalpole\source\repos\Birb of Wisdom\bin\Release\Birb of Wisdom.pdb
+C:\Users\rwalpole\source\repos\Birb of Wisdom\obj\Release\Birb of Wisdom.csprojAssemblyReference.cache
+C:\Users\rwalpole\source\repos\Birb of Wisdom\obj\Release\Birb_of_Wisdom.Form1.resources
+C:\Users\rwalpole\source\repos\Birb of Wisdom\obj\Release\Birb_of_Wisdom.Properties.Resources.resources
+C:\Users\rwalpole\source\repos\Birb of Wisdom\obj\Release\Birb of Wisdom.csproj.GenerateResource.cache
+C:\Users\rwalpole\source\repos\Birb of Wisdom\obj\Release\Birb of Wisdom.csproj.CoreCompileInputs.cache
+C:\Users\rwalpole\source\repos\Birb of Wisdom\obj\Release\Birb of Wisdom.exe
+C:\Users\rwalpole\source\repos\Birb of Wisdom\obj\Release\Birb of Wisdom.pdb
