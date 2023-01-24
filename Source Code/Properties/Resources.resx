@@ -136,13 +136,37 @@
   <data name="Answer6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Answer6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Answer9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Answer9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Answer4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Answer4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Answer7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Answer7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Answer9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Answer9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Answer10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Answer Images\Answer10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Answer11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Answer Images\Answer11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Answer12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Answer Images\Answer12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Answer13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Answer Images\Answer13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Answer14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Answer Images\Answer14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Answer15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Answer Images\Answer15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Answer16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Answer Images\Answer16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Answer17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Answer Images\Answer17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
