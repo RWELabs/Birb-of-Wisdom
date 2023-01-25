@@ -126,6 +126,14 @@
     <None Include="Resources\Answer9.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Answer Images\Answer10.png" />
+    <None Include="Answer Images\Answer11.png" />
+    <None Include="Answer Images\Answer12.png" />
+    <None Include="Answer Images\Answer13.png" />
+    <None Include="Answer Images\Answer14.png" />
+    <None Include="Answer Images\Answer15.png" />
+    <None Include="Answer Images\Answer16.png" />
+    <None Include="Answer Images\Answer17.png" />
     <Content Include="icons8-sparrowhawk-96.ico" />
   </ItemGroup>
   <ItemGroup>
