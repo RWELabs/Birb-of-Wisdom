@@ -108,6 +108,14 @@ namespace Birb_of_Wisdom
             //7 - Definitely not.
             //8 - Be careful what you ask for
             //9 - Ask again later
+            //10 - Why of course
+            //11 - I shan't answer that
+            //12 - Not a chance
+            //13 - Your query disturbs me but the answer is yes
+            //14 - Absolutely
+            //15 - No
+            //16 - Most likely not
+            //17 - I cannot determine
 
             if (Question.Text == string.Empty)
             {
@@ -117,7 +125,7 @@ namespace Birb_of_Wisdom
             {
                 Random rnd = new Random();
                 //string[] secOptions = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
-                int randomNumber = rnd.Next(1, 10);
+                int randomNumber = rnd.Next(1, 17);
                 //MessageBox.Show(randomNumber.ToString());
                 Query.Text = "Ask Again";
 
@@ -149,6 +157,30 @@ namespace Birb_of_Wisdom
                         break;
                     case 9:
                         Answer.Image = new Bitmap(Properties.Resources.Answer9);
+                        break;
+                    case 10:
+                        Answer.Image = new Bitmap(Properties.Resources.Answer10);
+                        break;
+                    case 11:
+                        Answer.Image = new Bitmap(Properties.Resources.Answer11);
+                        break;
+                    case 12:
+                        Answer.Image = new Bitmap(Properties.Resources.Answer12);
+                        break;
+                    case 13:
+                        Answer.Image = new Bitmap(Properties.Resources.Answer13);
+                        break;
+                    case 14:
+                        Answer.Image = new Bitmap(Properties.Resources.Answer14);
+                        break;
+                    case 15:
+                        Answer.Image = new Bitmap(Properties.Resources.Answer15);
+                        break;
+                    case 16:
+                        Answer.Image = new Bitmap(Properties.Resources.Answer16);
+                        break;
+                    case 17:
+                        Answer.Image = new Bitmap(Properties.Resources.Answer17);
                         break;
                 }
             }
