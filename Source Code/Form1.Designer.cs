@@ -81,10 +81,10 @@ namespace Birb_of_Wisdom
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(8, 15);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(357, 16);
+            this.label2.Size = new System.Drawing.Size(371, 17);
             this.label2.TabIndex = 5;
             this.label2.Text = "The Birb of Wisdom invites you to ask a yes or no question.";
             // 
